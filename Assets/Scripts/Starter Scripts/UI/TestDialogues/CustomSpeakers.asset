@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9358529db3a2cff4292cc9825161d8c9, type: 3}
+  m_Name: CustomSpeakers
+  m_EditorClassIdentifier: 
+  speakerLibrary:
+  - name: Pinkman
+    sprite: {fileID: 21300000, guid: 510746e81e729a548a9a691eabf404a5, type: 3}
+  - name: Mom
+    sprite: {fileID: 21300000, guid: 0e9b8562d2ad05b439e611ffe40da2d4, type: 3}
+  - name: Mr. White
+    sprite: {fileID: 21300000, guid: 92a0fe73d368d3d49aa0e2f0417bbb70, type: 3}
+  - name: Saul Goodman
+    sprite: {fileID: 21300000, guid: 8f913e1366e719a4181258b5e08ef0fc, type: 3}
+  - name: Gus Fring
+    sprite: {fileID: 21300000, guid: 6ca6e50889f861b4ea90f205f405f01c, type: 3}
+  - name: Heitzmanberg
+    sprite: {fileID: 21300000, guid: a3083a3d89040d74cb481175c11698f0, type: 3}

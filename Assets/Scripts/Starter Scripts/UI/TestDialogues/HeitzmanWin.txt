@@ -1,0 +1,5 @@
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] Why did you do it? How could you yo
+[NAME=Heitzmanberg][SPEAKERSPRITE=Heitzmanberg] Youre always late to my class! I needed to teach you a lesson.
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] So you took away all the pokemon??
+[NAME=Heitzmanberg][SPEAKERSPRITE=Heitzmanberg] Of course not! I just refused to give you your pokemon and lied to you
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] Not cool yo

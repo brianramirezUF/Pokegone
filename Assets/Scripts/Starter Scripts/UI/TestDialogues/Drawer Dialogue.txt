@@ -1,0 +1,1 @@
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] Can't let Ma find out what's in this drawer.

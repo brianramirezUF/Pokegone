@@ -1,0 +1,11 @@
+[NAME=Saul Goodman][SPEAKERSPRITE=Saul Goodman] Need a lawyer you can trust? Saul Goodman at your service
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] Yo have you seen a heisenberg?
+[NAME=Saul Goodman][SPEAKERSPRITE=Saul Goodman] Whos asking?
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] Uhh
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] Me?
+[NAME=Saul Goodman][SPEAKERSPRITE=Saul Goodman] Ever heard of lawyer client confidentiality?
+[NAME=Saul Goodman][SPEAKERSPRITE=Saul Goodman] Yeah, I thought so..
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] If I keep following this path will I find heisenberg?
+[NAME=Saul Goodman][SPEAKERSPRITE=Saul Goodman] Listen, you seem like a good kid. Why dont you just turn back and call it a day. This type of business can get.. messy.. to say the least.
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] No way yo, I'm just going to keep going.
+[NAME=Saul Goodman][SPEAKERSPRITE=Saul Goodman] Sorry, I can't let you do that in good conscience

@@ -1,0 +1,11 @@
+[NAME=Gus Fring][SPEAKERSPRITE=Gus Fring] Hello and welcome to Los Pollos Hermanos, how may I help you today?
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] What is the owner of the Los Pollos Hermanos franchise doing way out here in the woods..
+[NAME=Gus Fring][SPEAKERSPRITE=Gus Fring] Nevermind that. How may I be of assistance to you?
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] Im looking for a heisenberg yo
+[NAME=Gus Fring][SPEAKERSPRITE=Gus Fring] I know nothing about said heisenberg. Is there anything else I can assist you with?
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] Nah thanks though, Ill just keep searching down this way
+[NAME=Gus Fring][SPEAKERSPRITE=Gus Fring] I wouldnt do that if I were you.
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] Why not yo?
+[NAME=Gus Fring][SPEAKERSPRITE=Gus Fring] Look at me, Pinkman
+[NAME=Gus Fring][SPEAKERSPRITE=Gus Fring] I
+[NAME=Gus Fring][SPEAKERSPRITE=Gus Fring] Wouldnt.

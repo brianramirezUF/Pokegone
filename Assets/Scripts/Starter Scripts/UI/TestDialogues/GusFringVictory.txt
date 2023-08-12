@@ -1,0 +1,4 @@
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] What do you know about heisenberg?
+[NAME=Gus Fring][SPEAKERSPRITE=Gus Fring] Your teacher, Mr. White, isnt who you think he is.
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] What do you mean yo?
+[NAME=Gus Fring][SPEAKERSPRITE=Gus Fring] Keep going. Follow the path and see for yourself. This is your last warning.

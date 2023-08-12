@@ -1,0 +1,5 @@
+[NAME=Mom][SPEAKERSPRITE=Mom] Mr White began distrubiting the pokemon over an hour ago Jessie!
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] Yeah, I know.
+[NAME=Mom][SPEAKERSPRITE=Mom] Go to his classroom before it's too late! Remember, go directly up from here.
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] I'm not a little kid anymore mom.
+[NAME=Mom][SPEAKERSPRITE=Mom] You sure as hell act like one! Now go!

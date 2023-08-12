@@ -1,0 +1,1 @@
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] It's locked. What did you expect?

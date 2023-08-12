@@ -1,0 +1,5 @@
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] Mr. White? It cant be true yo
+[NAME=Mr. White][SPEAKERSPRITE=Mr. White] What are you talking about Jessie? Ive come to help defeat heisenberg
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] I was told that you were heisenberg.
+[NAME=Mr. White][SPEAKERSPRITE=Mr. White] NONSENSE
+[NAME=Heitzmanberg][SPEAKERSPRITE=Heitzmanberg] Its actually Heitzmanberg, not heisenberg.

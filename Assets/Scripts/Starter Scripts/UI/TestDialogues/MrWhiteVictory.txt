@@ -1,0 +1,8 @@
+[NAME=Mr. White][SPEAKERSPRITE=Mr. White] You see Jessie you were able to beat me while lower leveled.
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] Cmon yo. I just said yo to you.
+[NAME=Mr. White][SPEAKERSPRITE=Mr. White] Thats exactly it Jessie! You beat me using only one move! Once you unlock more you can save all the pokemon!
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] If you say so man.
+[NAME=Mr. White][SPEAKERSPRITE=Mr. White] Listen to me Jessie. Pass by the healing center and heal up. Then head west from there... I believe thats where Heisenberg went.
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] Heisenberg?
+[NAME=Mr. White][SPEAKERSPRITE=Mr. White] Yes... I believe this Heisenberg fellow is the one responsible for the missing pokemon.
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] All right I guess.

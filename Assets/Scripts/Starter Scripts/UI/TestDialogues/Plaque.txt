@@ -1,0 +1,2 @@
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] "Awarded to Jessie Pinkman for being voted for having the brightest future"
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] Some future that turned out to be.

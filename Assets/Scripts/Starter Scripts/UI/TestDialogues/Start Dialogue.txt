@@ -1,0 +1,3 @@
+[NAME=Mom][SPEAKERSPRITE=Mom] Pinkman wake up! You're going to be late!
+[NAME=Mom][SPEAKERSPRITE=Mom] Did you forget how to move again? It's WASD
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] Shaddup ma! I'm up already!

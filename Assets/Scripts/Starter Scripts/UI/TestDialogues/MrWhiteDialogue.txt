@@ -1,0 +1,16 @@
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] Mr. White??
+[NAME=Mr. White][SPEAKERSPRITE=Mr. White] JESSIE.
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] Whatr you doing out here yo? I was on my way to your class
+[NAME=Mr. White][SPEAKERSPRITE=Mr. White] Do you have no respect for my class? Punctuality is a principle Jessie.
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] Not reall-
+[NAME=Mr. White][SPEAKERSPRITE=Mr. White] NEVERMIND THAT JESSIE!
+[NAME=Mr. White][SPEAKERSPRITE=Mr. White] THE POKEMON JESSIE! THEYRE ALL GONE
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] What?
+[NAME=Mr. White][SPEAKERSPRITE=Mr. White] ALL THE POKEMON JESSIE! GONE
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] Youre not making any sense yo.. slow down
+[NAME=Mr. White][SPEAKERSPRITE=Mr. White] I was distributing the pokemon to your class when they just all vanished
+[NAME=Mr. White][SPEAKERSPRITE=Mr. White] But I think I know how to get them back. I need your help Jessie.
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] Why me?
+[NAME=Mr. White][SPEAKERSPRITE=Mr. White] YOURE THE ONLY ONE I CAN TRUST JESSIE!
+[NAME=Pinkman][SPEAKERSPRITE=Pinkman] What am I even supposed to do without the help of a pokemon. Im not even a trainer yo..
+[NAME=Mr. White][SPEAKERSPRITE=Mr. White] There are other ways to fight Jessie let me show you.
